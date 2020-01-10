@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int main() 
+void big3() 
 { 
     int A, B, C; 
   
